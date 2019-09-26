@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Cifar 10 Data
+cifar-10-batches-py
+
+# .Vscode 
+.vscode
